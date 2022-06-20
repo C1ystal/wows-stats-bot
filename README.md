@@ -122,7 +122,7 @@ Nonebot2版：[Hikari](https://github.com/benx1n/HikariBot)——更易部署的
 1. 打开Anaconda Prompt
     ```
     cd 插件目录
-    git clone https://github.com/benx1n/wows-stats-bot.git
+    git clone https://github.com/C1ystal/wows-stats-bot.git
     cd wows-stats-bot
     pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
     ```
