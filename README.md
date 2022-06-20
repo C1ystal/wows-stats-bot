@@ -24,10 +24,6 @@
   </a>
 </p>
 
-## 测试
-CC!
-寄!
-
 ## 简介
 战舰世界水表查询插件，基于hoshinobot V2<br>
 水表人，出击！wws me recent！！！<br>
